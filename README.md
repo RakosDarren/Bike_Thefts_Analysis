@@ -18,3 +18,4 @@ The following questions will be answered using SQL:
 - What value and type of bikes are most stolen?
 - How many stolen bikes remained stolen or were recovered?
 - How long between reported theft and actual theft?
+- What is the average value of stolen bikes?
