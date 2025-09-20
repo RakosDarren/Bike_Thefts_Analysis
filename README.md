@@ -16,7 +16,7 @@ The following questions will be answered using SQL:
 - What is the frequency of thefts relative to the time of day?
 - What are the top 10 neighboorhoods that have the most thefts?
 - What value and type of bikes are most stolen?
-- How many stolen bikes remained stolen or were recovered?
+- How many stolen bikes were recovered?
 - How long between reported theft and actual theft?
 - What is the average value of stolen bikes?
 
