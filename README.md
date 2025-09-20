@@ -17,3 +17,4 @@ The following questions will be answered using SQL:
 - What are the top 10 neighboorhoods that have the most thefts?
 - What value and type of bikes are most stolen?
 - How many stolen bikes remained stolen or were recovered?
+- How long between reported theft and actual theft?
