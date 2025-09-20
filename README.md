@@ -10,7 +10,6 @@ The following questions will be answered using SQL:
 - What is the total number of thefts?
 - What is the earliest and latest date of recorded thefts?
 - What is the number of reported thefts per year?
-- What years have the most thefts
 - What month has the most amount of thefts?
 - What single day has the most amount of thefts?
 - What is the average time between reported thefts and actual theft (in days)?
