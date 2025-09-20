@@ -13,6 +13,7 @@ The following questions will be answered using SQL:
 - What years have the most thefts
 - What month has the most amount of thefts?
 - What single day has the most amount of thefts?
+- What is the average time between reported thefts and actual theft (in days)?
 - What are the top 10 neighboorhoods that have the most thefts?
 - What value and type of bikes are most stolen?
 - How many stolen bikes were recovered?
