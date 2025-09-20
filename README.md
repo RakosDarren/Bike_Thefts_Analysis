@@ -19,3 +19,5 @@ The following questions will be answered using SQL:
 - How many stolen bikes remained stolen or were recovered?
 - How long between reported theft and actual theft?
 - What is the average value of stolen bikes?
+
+* [Data Analysis Question & Answers](https://github.com/RakosDarren/Bike_Thefts_Analysis/blob/main/Answers.md)
