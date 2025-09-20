@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An SQL analysis of bike theft reports on city streets within the City of Ottawa limits. Data is sourced from the Ottawa Open Data portal and excludes any personally identifiable information.
+An SQL analysis of bike theft reports within the City of Ottawa limits. Data is sourced from the Ottawa Open Data portal and excludes any personally identifiable information.
 
 ## Data Analysis Question & Answers
 
