@@ -12,10 +12,10 @@ The following questions will be answered using SQL:
 - What is the number of reported thefts per year?
 - What month has the most amount of thefts?
 - What single day has the most amount of thefts?
-- What is the average time between reported thefts and actual theft (in days)?
-- What are the top 10 neighboorhoods that have the most thefts?
+- What is the average time between reported thefts and actual thefts (in hours)?
+- What are the top 10 neighborhoods that have the most thefts?
 - Where do bikes most often get stolen?
-- What type of bikes are most stolen?
+- What type of bikes are most stolen and their value?
 - How many stolen bikes were recovered VS remain stolen?
 
 * [Data Analysis Question & Answers](https://github.com/RakosDarren/Bike_Thefts_Analysis/blob/main/Answers.md)
